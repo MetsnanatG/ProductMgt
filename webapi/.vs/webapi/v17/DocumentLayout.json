@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gersum\\TDMS\\webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\controller\\productstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:controller\\productstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\appdbcontext\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:appdbcontext\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\appdbcontext\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:appdbcontext\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\appdbcontext\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:appdbcontext\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|d:\\gersum\\tdms\\webapi\\models\\approvalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC7D66-9E80-4C48-AF45-CF65263B5B8C}|webapi.csproj|solutionrelative:models\\approvalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManagementContext.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\AppDbContext\\ProductManagementContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext\\ProductManagementContext.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\AppDbContext\\ProductManagementContext.cs",
+              "RelativeToolTip": "AppDbContext\\ProductManagementContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:14:51.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\ProductService.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Service\\ProductService.cs",
+              "RelativeToolTip": "Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:14:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controller\\ProductController.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Controller\\ProductController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAzwBgAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:14:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductStockController.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Controller\\ProductStockController.cs",
+              "RelativeDocumentMoniker": "Controller\\ProductStockController.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Controller\\ProductStockController.cs*",
+              "RelativeToolTip": "Controller\\ProductStockController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:26:32.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Models\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ProductRequest.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Models\\ProductRequest.cs*",
+              "RelativeToolTip": "Models\\ProductRequest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:31:45.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:14:40.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:16:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\AppDbContext\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AppDbContext\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\AppDbContext\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "AppDbContext\\DTO\\RegisterDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA6wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:15:09.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T18:46:43.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controller\\AuthController.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Controller\\AuthController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:34:26.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:32:40.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:33:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\AppDbContext\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AppDbContext\\DTO\\LoginDto.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\AppDbContext\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "AppDbContext\\DTO\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:14:47.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApprovalHistory.cs",
+              "DocumentMoniker": "D:\\Gersum\\TDMS\\webapi\\Models\\ApprovalHistory.cs",
+              "RelativeDocumentMoniker": "Models\\ApprovalHistory.cs",
+              "ToolTip": "D:\\Gersum\\TDMS\\webapi\\Models\\ApprovalHistory.cs",
+              "RelativeToolTip": "Models\\ApprovalHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:31:41.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
